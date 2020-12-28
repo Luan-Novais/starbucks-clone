@@ -271,6 +271,10 @@ h2{
     height: 600px;
 }
 
+#img-fechar-mobile{
+    cursor: pointer;
+}
+
 
 footer{
     background-color: #333;
